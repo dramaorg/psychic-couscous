@@ -1,6 +1,6 @@
 {
   "name": "@dramaorg/psychic-couscous",
-  "version": "2.13.84",
+  "version": "2.13.85",
   "description": "",
   "main": "index.js",
   "author": "dramatinahj",
@@ -743,7 +743,7 @@
   "bugs": {
     "url": "https://github.com/dramaorg/psychic-couscous/issues"
   },
-  "packageManager": "yarn@4.3.1",
+  "packageManager": "yarn@4.4.0",
   "dependencies": {
     "@dramaorg/quae-dolore-nostrum": "^2.1.25",
     "@juigorg/nisi-molestiae-ut": "^2.1.26",
